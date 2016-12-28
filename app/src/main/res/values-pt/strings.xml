@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simplificar fração</string>
+    <string name="Execute">Executar</string>
+    <string name="Clear">Limpar</string>
+    <string name="GCD">MDC</string>
+    <string name="Message">Mensagem</string>
+</resources>

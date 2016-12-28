@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simplify_fraction</string>
+    <string name="Execute">Execute</string>
+    <string name="Clear">Clear</string>
+    <string name="GCD">GCD</string>
+    <string name="Message">Message</string>
+    </resources>
